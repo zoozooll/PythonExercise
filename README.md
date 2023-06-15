@@ -12,4 +12,6 @@
   Albert Einstein once said, "A person who never made a mistake nver tried anything new."
 * 2.6 重复练习2.5，但用变量famous_person表示名人的名字，再创建要显示的消息并将其赋值给变量message，然后打印这条消息.
 * 2.7 剔除人名中的空白
-* 
+*
+* 3.1 把一些人的性命存储到一个列表中，并将其命名为names。依次访问该列表的每个元素，从而将每个朋友的名字打印出来
+* 3.2 继续使用练习3.1的列表，但不打印每个朋友的姓名，而为每个人打印一条消息。每条消息包含相同的问候语，但抬头为响应朋友的名字。
